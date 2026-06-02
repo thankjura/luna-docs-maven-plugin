@@ -6,7 +6,7 @@
 
     <groupId>ru.slie.luna.maven</groupId>
     <artifactId>luna-docs-maven-plugin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>maven-plugin</packaging>
 
     <name>Luna Docs Maven Plugin</name>
